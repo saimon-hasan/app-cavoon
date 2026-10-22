@@ -70,7 +70,7 @@ The project is planned as a clothing e-commerce website. The team still needs to
 | Website | [caavon.com](https://caavon.com) | Customer-facing store; confirm this is the correct live URL |
 | GitHub repository | [saimon-hasan/app-cavoon](https://github.com/saimon-hasan/app-cavoon) | Project code and files |
 | Project board | `[Add URL]` | Tasks, issues, and milestones |
-| Development site | `[Add URL when available]` | Version used for testing |
+| Development site | [Dev-test](https://github.com/saimon-hasan/app-cavoon/tree/Dev-test) | Version used for testing |
 | Design or prototype | `[Add URL if available]` | Mockups and layout plans |
 
 ### Suggested milestones
