@@ -72,14 +72,6 @@ The project is planned as a clothing e-commerce website. The team still needs to
 | Project board |[Milestones](https://github.com/saimon-hasan/app-cavoon/milestones) | Tasks, issues, and milestones |
 | Development site | [Dev-test](https://github.com/saimon-hasan/app-cavoon/tree/Dev-test) | Version used for testing |
 
-### Suggested milestones
-
-1. **Storefront Foundation** — Decide the audience, products, and page layout.
-2. **Catalog and Product Pages** — Build the product list and details pages.
-3. **Cart** — Let customers add and review items.
-4. **Customer Testing** — Ask someone to try the shopping flow and record feedback.
-5. **Demo Ready** — Fix the main problems and prepare the project demonstration.
-
 ### First backlog tasks
 
 - Research clothing customers and their shopping needs.
