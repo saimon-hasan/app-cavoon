@@ -71,7 +71,6 @@ The project is planned as a clothing e-commerce website. The team still needs to
 | GitHub repository | [saimon-hasan/app-cavoon](https://github.com/saimon-hasan/app-cavoon) | Project code and files |
 | Project board | `[Add URL]` | Tasks, issues, and milestones |
 | Development site | [Dev-test](https://github.com/saimon-hasan/app-cavoon/tree/Dev-test) | Version used for testing |
-| Design or prototype | `[Add URL if available]` | Mockups and layout plans |
 
 ### Suggested milestones
 
