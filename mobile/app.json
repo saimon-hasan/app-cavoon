@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "CAAVON",
+    "slug": "caavon-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#234A3C",
+        "foregroundImage": "./assets/android-icon-foreground.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro",
+      "output": "single"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "caavon"
+  }
+}
