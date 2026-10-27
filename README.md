@@ -1,5 +1,7 @@
 # Caavon.com
 
+**Mobile app:** [Setup and source](mobile/README.md) · [Preview](mobile/docs/preview.png) · [Demo walkthrough](mobile/docs/demo.md)
+
 ## A Study in Simplicity
 
 **Project proposal and plan**  
